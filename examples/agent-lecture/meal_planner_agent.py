@@ -3,7 +3,7 @@ from langchain.agents import create_agent
 from util.models import get_model
 from util.streaming_utils import STREAM_MODES, handle_stream
 from util.pretty_print import get_user_input
-from meal_planner_prompt import SYSTEM_PROMPT
+from .meal_planner_prompt import SYSTEM_PROMPT
 
 def run():
     # Get predefined attributes
