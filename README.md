@@ -116,4 +116,4 @@ Denna agent fokuserar på:
 
 ## Författare
 
-Skapad av BigLurch som en del av kursprojekt.
+Skapad av Jonas Johansson som en del av kursprojekt.
